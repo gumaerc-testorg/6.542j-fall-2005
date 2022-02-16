@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 11: Prosody 1: Vowel and Consonant Durations in Speech'
 uid: 91a40e36-ded7-b292-a432-06b41e54e4cf

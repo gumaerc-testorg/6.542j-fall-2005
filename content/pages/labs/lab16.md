@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 16: Higher-Level Synthesis Using Quasi-articulatory Parameters'
 uid: 3234f088-1b32-a9c5-de1a-2b3821b85ea6

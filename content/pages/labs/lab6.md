@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 6: Interpretation of Cineradiographic Motion Pictures'
 uid: 483a6301-e2e7-4a72-cefc-0fbd5c0131ca

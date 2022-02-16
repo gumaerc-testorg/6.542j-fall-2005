@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/bd67b5d9f7272e89661e4a522ab4f3a2_CV_test_answers.pdf
+file: /media/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/bd67b5d9f7272e89661e4a522ab4f3a2_CV_test_answers.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lab Database
+parent_type: CourseSection
 resourcetype: Document
 title: CV_test_answers.pdf
 uid: bd67b5d9-f727-2e89-661e-4a522ab4f3a2

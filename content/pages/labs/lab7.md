@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 7: Measuring Speech Movements Using Data from X-ray Microbeam System'
 uid: d922545f-e7be-b365-7145-cdc83ebad894

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 14: Introduction to Speech Disorders: Analysis of the Speech of Children'
 uid: 1927c1de-c142-1a1a-8aa0-0183a7562ab9

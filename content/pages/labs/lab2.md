@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 2: Spectrographic and Spectrum Analysis of the English Vowel System'
 uid: 7172b442-c5ac-3d09-f660-d102df5fc4d8

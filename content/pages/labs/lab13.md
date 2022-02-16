@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 13: Speech Intelligibility and Confusion Matrices'
 uid: 5ff1098e-24b2-f174-216e-5dde3aaa5dc0

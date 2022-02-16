@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains a list of possible projects in prosody.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/777e46843d5c7c4efc91e333ad50ad26_prsdy_prjct_05.pdf
+file: /media/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/777e46843d5c7c4efc91e333ad50ad26_prsdy_prjct_05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: prsdy_prjct_05.pdf
 uid: 777e4684-3d5c-7c4e-fc91-e333ad50ad26

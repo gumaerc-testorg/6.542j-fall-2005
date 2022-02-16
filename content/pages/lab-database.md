@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lab Database
 uid: 10bc4420-56a8-8eaf-011f-1e0381b8f295
 ---
@@ -34,7 +36,7 @@ The following utterances were recorded by both male and female speakers:
     {{< thopen >}}
     #
     {{< thclose >}}
-    {{< thopen >}}
+    {{< thopen colspan="2" >}}
     SPEAKERS
     {{< thclose >}}
     
@@ -152,7 +154,7 @@ The following utterances were recorded by both male and female speakers:
     {{< thopen >}}
     #
     {{< thclose >}}
-    {{< thopen >}}
+    {{< thopen colspan="2" >}}
     SPEAKERS
     {{< thclose >}}
     

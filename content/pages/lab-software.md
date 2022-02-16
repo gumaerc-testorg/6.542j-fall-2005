@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lab Software
 uid: 86d191ad-6897-41a0-4bf1-0226b04ae992
 ---

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 4: Spectral Analysis of Stop and Fricative Consonants'
 uid: ce61e548-06fa-6b6d-2bdc-d793c126b351

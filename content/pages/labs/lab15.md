@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 15: Speech Synthesis Using a Formant Synthesizer'
 uid: 789ed6e3-9027-3e6a-7385-e3b3a8ec18df

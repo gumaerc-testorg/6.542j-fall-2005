@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 5: Sound Generation at the Larynx: Characteristics of the Glottal Source'
 uid: 5f98232d-c0c3-ce84-9856-cad300115abb

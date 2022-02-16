@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/1e3489e641b6a76e393eebcb98571567_fa01lab10.pdf
+file: /media/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/1e3489e641b6a76e393eebcb98571567_fa01lab10.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: fa01lab10.pdf
 uid: 1e3489e6-41b6-a76e-393e-ebcb98571567

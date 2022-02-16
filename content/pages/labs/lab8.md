@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 8: Formant Frequency Calculations from Area Function Data'
 uid: cfe5091f-9547-8fd7-d9ea-6f2e0f1a99bc

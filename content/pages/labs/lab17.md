@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 title: 'LAB 17: Use of Landmarks and Features for Speech Recognition'
 uid: 09386103-fd1a-99e7-b8eb-f7164a379424

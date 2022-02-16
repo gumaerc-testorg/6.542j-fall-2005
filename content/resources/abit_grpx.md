@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/d10fcbaad56ddff009461d5127da3a3d_abit_grpx.hld
+file: /media/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/d10fcbaad56ddff009461d5127da3a3d_abit_grpx.hld
 file_type: audio/x-riff
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Other
 title: abit_grpx.hld
 uid: d10fcbaa-d56d-dff0-0946-1d5127da3a3d

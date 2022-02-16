@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/7277cc35a0e59898ff743fedef3ea467_spin_test_ans_10dB.pdf
+file: /media/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/7277cc35a0e59898ff743fedef3ea467_spin_test_ans_10dB.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Lab Database
+parent_type: CourseSection
 resourcetype: Document
 title: spin_test_ans_10dB.pdf
 uid: 7277cc35-a0e5-9898-ff74-3fedef3ea467
