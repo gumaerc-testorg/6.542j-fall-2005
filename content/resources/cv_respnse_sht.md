@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 resourcetype: Document
 title: cv_respnse_sht.pdf
 uid: c3c7d8c9-a563-f74d-5e3b-d333ca57ad45

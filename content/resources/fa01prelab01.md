@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 62c09cc4-8057-e00f-c34b-04af4963ce51
 resourcetype: Document
 title: fa01prelab01.pdf
 uid: 6a6742d1-dbd1-1adf-d056-5a10dfb78c9d

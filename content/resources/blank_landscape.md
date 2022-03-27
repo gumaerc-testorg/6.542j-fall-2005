@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 62c09cc4-8057-e00f-c34b-04af4963ce51
 resourcetype: Other
 title: Blank_landscape.doc
 uid: e9c3c7c5-f492-69e1-1ee6-c5a4022b8976

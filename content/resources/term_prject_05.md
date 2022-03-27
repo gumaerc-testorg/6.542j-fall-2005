@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 resourcetype: Document
 title: term_prject_05.pdf
 uid: f0f810ae-a7ca-3699-2029-dea4ec39736e

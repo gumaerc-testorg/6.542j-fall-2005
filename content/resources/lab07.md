@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Database
 parent_type: CourseSection
+parent_uid: 10bc4420-56a8-8eaf-011f-1e0381b8f295
 resourcetype: Other
 title: lab07.tar
 uid: f36badaf-b676-2ae1-6f61-2d80dba17bea

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Database
 parent_type: CourseSection
+parent_uid: 10bc4420-56a8-8eaf-011f-1e0381b8f295
 resourcetype: Document
 title: CV_response_sheet.pdf
 uid: fe3b2e80-c12c-c008-f02d-6a12cff54a79

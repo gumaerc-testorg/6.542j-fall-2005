@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 1ed20545-14e0-a2b2-11c3-5a783333e95d
 resourcetype: Document
 title: term_prject_05.pdf
 uid: 4ee0776a-9019-ce4d-fd05-a959f7205003

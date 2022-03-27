@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 62c09cc4-8057-e00f-c34b-04af4963ce51
 resourcetype: Document
 title: fa01lab08.pdf
 uid: be5b1159-4d66-3a26-4627-6e3938b3e00d

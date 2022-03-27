@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 62c09cc4-8057-e00f-c34b-04af4963ce51
 resourcetype: Other
 title: abit_grpx.hld
 uid: d10fcbaa-d56d-dff0-0946-1d5127da3a3d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lab Database
 parent_type: CourseSection
+parent_uid: 10bc4420-56a8-8eaf-011f-1e0381b8f295
 resourcetype: Document
 title: CVC_test_answers.pdf
 uid: 26e6dbe2-08a1-c8f1-3aec-1184e1ecb21a

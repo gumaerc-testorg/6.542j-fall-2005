@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 resourcetype: Document
 title: spn_tst_ans_0db.pdf
 uid: 1abb0cf2-88af-1cf8-f992-d68f09968af3
