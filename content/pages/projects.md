@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the projects which students have
+  to make for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -14,6 +16,6 @@ Students select a topic at about the middle of the semester and propose a limite
 
 Below are two lists of suggested term projects. Students may select a project from these lists, or may suggest a project of their own. (Although there are two lists, students are only required to choose **one** topic.)
 
-Some Possible Term Projects ([PDF]({{< baseurl >}}/resources/term_prject_05-1))
+Some Possible Term Projects ({{% resource_link 4ee0776a-9019-ce4d-fd05-a959f7205003 "PDF" %}})
 
-Projects in Prosody ([PDF]({{< baseurl >}}/resources/prsdy_prjct_05-1))
+Projects in Prosody ({{% resource_link 777e4684-3d5c-7c4e-fc91-e333ad50ad26 "PDF" %}})

@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This page contains digitized media files for use in the labs. Most of
+  the files are audio data, but there are also image files and other types of data.
+  For some of the labs, user is asked to record his own voice. If the user do not
+  have the tools for making such recordings, example utterances are provided as spoken
+  by both a female speaker and a male speaker. The audio files are given below under
+  the heading of the relevant lab.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lab Database
@@ -502,8 +508,8 @@ You will use at least one of the following subsets of utterances recorded during
 You will use at least one of the following subsets of utterances recorded during [Lab 1](#lab1):
 
 *   The words "bug", "duck", "gut", "putt", "tug", "cut", "hut"
-*   The words "fuss", "thug", "supper", "shutter", "vanilla", "the", /z![schwa](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/schwa.gif)/, /![zh](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/zh.gif)![schwa](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/schwa.gif)/
-*   The words "chump", "jump", "tug", "duck", "shutter", /![zh](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/zh.gif)![schwa](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/schwa.gif)/
+*   The words "fuss", "thug", "supper", "shutter", "vanilla", "the", /z{{< resource "b2642051-9d9e-b3f1-9f56-b0c501efe100" >}}/, /{{< resource "fbbe0f79-4523-5b65-0a05-6c76f4ba6a45" >}}{{< resource "b2642051-9d9e-b3f1-9f56-b0c501efe100" >}}/
+*   The words "chump", "jump", "tug", "duck", "shutter", /{{< resource "fbbe0f79-4523-5b65-0a05-6c76f4ba6a45" >}}{{< resource "b2642051-9d9e-b3f1-9f56-b0c501efe100" >}}/
 
 \[[top](#top)\]
 
@@ -513,7 +519,7 @@ You will use at least one of the following subsets of utterances recorded during
 *   Part A: You will use the words "bat" and "pat" recorded by five speakers. These utterances have already been recorded and stored in the labc account. They can also be downloaded below.
 *   Parts B-C: You will record the words "pat", "pad", and "bad" during the lab. If you are not able to make new recordings, you can download samples recorded by a female speaker (HH) below.
 
-Download a tar/zip archive of the utterances (xkl format) required for this lab ([ZIP]({{< baseurl >}}/resources/lab5_database))
+Download a tar/zip archive of the utterances (xkl format) required for this lab ({{% resource_link bdaf355a-2807-6344-3daf-ba4ccd5bd0c7 "ZIP" %}})
 
 \[[top](#top)\]
 
@@ -522,10 +528,10 @@ Download a tar/zip archive of the utterances (xkl format) required for this lab 
 
 In this lab you will use .gif files of cineradiographic images. Because the full database of these images is rather large, it will only be available to students attending the lab. Sample .gif files can be downloaded here:
 
-Download file KNS\_6400995.gif ([GIF]({{< baseurl >}}/resources/kns_6400995)), /a/ in "he'tat"  
-Download file KNS\_6401423.gif ([GIF]({{< baseurl >}}/resources/kns_6401423)), /a/ in "soggy"  
-Download file KNS\_6400919.gif ([GIF]({{< baseurl >}}/resources/kns_6400919)), /u/ in "he'tu"  
-Download file KNS\_6401621.gif ([GIF]({{< baseurl >}}/resources/kns_6401621)), /u/ in "shoes"
+Download file KNS\_6400995.gif ({{% resource_link 4eb40150-a0ed-a63f-a7b1-91212bf49217 "GIF" %}}), /a/ in "he'tat"  
+Download file KNS\_6401423.gif ({{% resource_link dd15886f-6a41-4059-5185-d9857950b9b6 "GIF" %}}), /a/ in "soggy"  
+Download file KNS\_6400919.gif ({{% resource_link 679f8087-5931-0c32-216a-0b9ae4f65608 "GIF" %}}), /u/ in "he'tu"  
+Download file KNS\_6401621.gif ({{% resource_link 74c18243-4229-0a2a-98a7-1c7058ac2bcd "GIF" %}}), /u/ in "shoes"
 
 \[[top](#top)\]
 
@@ -534,8 +540,8 @@ Download file KNS\_6401621.gif ([GIF]({{< baseurl >}}/resources/kns_6401621)), /
 
 In this lab, you will use data recorded by an x-ray microbeam system for two speakers.
 
-Microbeam Data for Speaker JW16 ([ZIP - 6.0 MB]({{< baseurl >}}/resources/subj1))  
-Microbeam Data for Speaker JW18 ([ZIP - 6.0 MB]({{< baseurl >}}/resources/subj2))  
+Microbeam Data for Speaker JW16 ({{% resource_link 4806ade4-9c72-226f-7e74-11a62de93364 "ZIP - 6.0 MB" %}})  
+Microbeam Data for Speaker JW18 ({{% resource_link aa612572-a6a3-abed-809b-f0b2dd90be61 "ZIP - 6.0 MB" %}})  
 
 \[[top](#top)\]
 
@@ -549,7 +555,7 @@ You will use the set of words "beat" and "buy" from the database of recorded utt
 Lab 9: Techniques for Measuring Respiration during Speech{{< anchor "lab9" >}}{{< /anchor >}}
 ---------------------------------------------------------------------------------------------
 
-In this lab, you will use MATLAB® files to calculate lung volume and examine air flow. Download a tar/zip archive for the lab here. ([ZIP - 3.1 MB]({{< baseurl >}}/resources/6542_lab16_database)) (The ZIP file contains: 10 .mat files, 2 .m files and 3 .jpg files.)
+In this lab, you will use MATLAB® files to calculate lung volume and examine air flow. Download a tar/zip archive for the lab here. ({{% resource_link 8cb7e214-2098-b679-ec67-4abf82cfa920 "ZIP - 3.1 MB" %}}) (The ZIP file contains: 10 .mat files, 2 .m files and 3 .jpg files.)
 
 \[[top](#top)\]
 
@@ -570,7 +576,7 @@ Please say Maine, or Duke and Rice will play. (BC version)
 Please say Thomas or Kenneth, and Lucas will stay. (AB version)  
 Please say Thomas, or Kenneth and Lucas will stay. (BC version)
 
-Download utterances required for this lab. ([PDF - 1.2 MB]({{< baseurl >}}/resources/lab12-1)) (The zip file contains 8 .wav files.)
+Download utterances required for this lab. ({{% resource_link 21fb4ed4-f775-e8cb-6a8a-e64bdcaadf45 "PDF - 1.2 MB" %}}) (The zip file contains 8 .wav files.)
 
 \[[top](#top)\]
 
@@ -600,11 +606,11 @@ In this lab, you will participate as a subject in two types of intelligibility t
 You will use utterances produced by adults and children with several types of speech disorders, all in Xkl (Klatt .wav) format:
 
 *   Part 1: Utterances produced by children with normal speech production.  
-    Download a tar/zip archive for Part 1 here ([ZIP]({{< baseurl >}}/resources/normal))
+    Download a tar/zip archive for Part 1 here ({{% resource_link f1c1757c-910d-7159-60fa-c525cf6b9bbb "ZIP" %}})
 *   Part 2: Utterances produced by children who misarticulate several speech sounds.  
-    Download a tar/zip archive for Part 2 here ([ZIP]({{< baseurl >}}/resources/dysarthria))
+    Download a tar/zip archive for Part 2 here ({{% resource_link 410175b4-116b-de38-0080-3f4ecbd970e6 "ZIP" %}})
 *   Part 3: Utterances produced by deaf children.  
-    Download a tar/zip archive for Part 3 here ([ZIP]({{< baseurl >}}/resources/deaf-1))
+    Download a tar/zip archive for Part 3 here ({{% resource_link ecc80b69-7d19-a025-784b-c08224d02f80 "ZIP" %}})
 
 \[[top](#top)\]
 
@@ -625,7 +631,7 @@ There are no utterances required for this lab.
 {{< anchor "lab17" >}}{{< /anchor >}}Lab17: Use of Landmarks and Features for Speech Recognition
 ------------------------------------------------------------------------------------------------
 
-In the first part of the lab, you will analyze and annotate acoustic events in two sentences. The waveforms of these two sentences can be downloaded here. ([ZIP]({{< baseurl >}}/resources/lab17-1)) (The ZIP file contains 8 .wav files: 4 xkl format and 4 Microsoft® format.)
+In the first part of the lab, you will analyze and annotate acoustic events in two sentences. The waveforms of these two sentences can be downloaded here. ({{% resource_link f9a0c601-cbff-7491-5e16-4d2227bbde86 "ZIP" %}}) (The ZIP file contains 8 .wav files: 4 xkl format and 4 Microsoft® format.)
 
 In the second part of the lab, you are given two brief utterances in which two of the words are unknown. Each utterance is of the form "Say --- --- please."
 

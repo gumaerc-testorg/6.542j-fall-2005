@@ -10,7 +10,7 @@ description: 'Lab 8: Prosody: Acoustic Evidence for Prosodic Constituent Structu
 
   Each sentence was produced with two different prosodic forms, and each prosodic
   form was produced twice by each speaker, for a total of 32 utterances.'
-file: /media/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/537443bc65f0be81da983c1b2c2e9930_lab08.tar
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/537443bc65f0be81da983c1b2c2e9930_lab08.tar
 file_type: application/x-tar
 learning_resource_types: []
 ocw_type: OCWFile
@@ -21,3 +21,8 @@ resourcetype: Other
 title: lab08.tar
 uid: 537443bc-65f0-be81-da98-3c1b2c2e9930
 ---
+Lab 8: Prosody: Acoustic Evidence for Prosodic Constituent Structure.  You will use the following utterances, produced by four speakers and stored in the labc account:
+Part A: Please say Maine or Duke and Rice will play.
+Part B: Please say Thomas or Kenneth and Lucas will stay.
+Each sentence was produced with two different prosodic forms, and each prosodic form was produced twice by each speaker, for a total of 32 utterances.
+

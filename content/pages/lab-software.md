@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about software tools which are to be
+  used for this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lab Software
@@ -30,9 +32,9 @@ Alternate Analysis Tools
 
 The MATLAB® scripts to conduct vocal tract area calculations and examine microbeam data are provided here for download. The ZIP file also contains program settings files (.sig), area function files (.are), and a backup file (.old). These tools are intended for non-commercial use and no formal software support is provided.
 
-Vocal Tract Area Functions ([ZIP]({{< baseurl >}}/resources/vtcalcs)) (The ZIP file contains: 54 .m files, 1 .m~ file, 10 .h files, 2 .h~ files, 13 .c files, 3 .c~ files, 7 .dll files, 7 .mexglx files, 1 .old files, 1 .txt, 13 .are files, 1 .tc files, 3 .sig files, 1 .doc files, 2 .dat files, 6 .tex files, 1 .ps file, 9 .scc files and 1 .pdf file.)
+Vocal Tract Area Functions ({{% resource_link cf2f0f64-f579-17ec-41d0-900dc5120ef6 "ZIP" %}}) (The ZIP file contains: 54 .m files, 1 .m~ file, 10 .h files, 2 .h~ files, 13 .c files, 3 .c~ files, 7 .dll files, 7 .mexglx files, 1 .old files, 1 .txt, 13 .are files, 1 .tc files, 3 .sig files, 1 .doc files, 2 .dat files, 6 .tex files, 1 .ps file, 9 .scc files and 1 .pdf file.)
 
-Microbeam Data Analysis ([ZIP]({{< baseurl >}}/resources/mavis)) (The ZIP file contains: 27 .m files.)
+Microbeam Data Analysis ({{% resource_link 933b6e2a-479a-fa31-43e6-88ee781229e6 "ZIP" %}}) (The ZIP file contains: 27 .m files.)
 
 MATLAB®
 -------

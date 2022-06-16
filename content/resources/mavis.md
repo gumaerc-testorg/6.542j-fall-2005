@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is an alternate analysis tools for microbeam data analysis.
-file: /media/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/933b6e2a479afa3143e688ee781229e6_mavis.zip
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/933b6e2a479afa3143e688ee781229e6_mavis.zip
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: mavis.zip
 uid: 933b6e2a-479a-fa31-43e6-88ee781229e6
 ---
+This is an alternate analysis tools for microbeam data analysis.
+
