@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/d10fcbaad56ddff009461d5127da3a3d_abit_grpx.hld
 file_type: audio/x-riff
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection

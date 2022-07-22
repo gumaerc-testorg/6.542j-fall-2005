@@ -5,6 +5,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab14_suplimnt.pdf
 uid: dcebb698-9d78-f680-4be5-ce4c411d62ce
 ---
 It contains suggestions for speech synthesis using a formant synthesizer.
-

@@ -6,6 +6,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab17.pdf
 uid: 6e399dae-c51b-68bc-2f0c-379179a52bf9
 ---
 This lab discusses about analyzing and annotating acoustic events in two sentences.
-

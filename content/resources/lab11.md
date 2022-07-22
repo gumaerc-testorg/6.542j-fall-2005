@@ -6,6 +6,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab11.pdf
 uid: d99cda4b-f54a-b578-72c9-25cccaea8501
 ---
 In this file, explanation of two methods of assessing the intelligibility of speech passed through a communication channel is given.
-

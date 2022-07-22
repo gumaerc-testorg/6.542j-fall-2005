@@ -6,6 +6,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cvc_respnse_sht.pdf
 uid: 73db8a9d-b703-cf78-ddb9-10c0f5124308
 ---
 This file contains an answer sheet corresponding to which answer for Cv stimuli are to be written.
-

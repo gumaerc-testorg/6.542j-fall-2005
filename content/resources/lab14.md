@@ -6,6 +6,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab14.pdf
 uid: fa3a0f45-c607-4827-f0be-98be35e0b970
 ---
 This file explains procedure about how to synthesize a monosyllabic English word or a phrase speech using a formant synthesizer.
-

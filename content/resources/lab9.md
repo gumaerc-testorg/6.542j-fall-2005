@@ -6,6 +6,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab9.pdf
 uid: dc09520f-c936-ed16-2542-e6d6eb3761c7
 ---
 This is an introductory lecture on the anatomy and function of various parts of the speech production mechanism.
-

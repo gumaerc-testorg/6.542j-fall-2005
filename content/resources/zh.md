@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Database
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: zh.gif
 uid: fbbe0f79-4523-5b65-0a05-6c76f4ba6a45
 ---
 The phonetic symbol "zh".
-

@@ -5,6 +5,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: spn_tst_ans_10db.pdf
 uid: dc0328f0-8f05-677a-853d-0b2536d61316
 ---
 This file includes answers for spin test 10dB.
-

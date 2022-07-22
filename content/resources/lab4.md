@@ -6,6 +6,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab4.pdf
 uid: 1deba121-3142-0a39-babe-2f1474c9f4e8
 ---
 Discusses on broadband spectrograms and waveform printouts which are to be made of selected utterances containing various stop and fricative consonants.
-

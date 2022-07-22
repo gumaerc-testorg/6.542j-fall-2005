@@ -7,6 +7,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lab8.pdf
 uid: 6aebfad0-d378-c8f2-3e5b-e258a05deb6f
 ---
 This file explains an algorithm for the estimation of formant frequencies from a specification of the cross-sectional area of the vocal tract from the vocal folds to the lips.
-

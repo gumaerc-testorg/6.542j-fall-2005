@@ -5,6 +5,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: spn_resp_sht.pdf
 uid: dc84048b-2d64-f451-09a2-f7ce18243bce
 ---
 This is a answer sheet given for spin test.
-

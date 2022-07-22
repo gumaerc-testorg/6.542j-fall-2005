@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/742cf86aff8311fdd6d8a9c555c31d7b_lab09_A.tar
 file_type: application/x-tar
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lab Database
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-s
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab1.pdf
 uid: 7bd3823e-c155-6d07-c59d-fb3f60f796e4
 ---
 The main purpose of this laboratory is to get the user familiar with the various speech analysis and editing tools that are available in the Speech Group.
-
