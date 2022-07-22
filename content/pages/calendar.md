@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the course lecture and lab schedule
+  with associated topics and the term projects.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 62c09cc4-8057-e00f-c34b-04af4963ce51
 ---
