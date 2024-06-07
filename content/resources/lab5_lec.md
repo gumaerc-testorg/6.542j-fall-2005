@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/5dff95cdfd566decefe27443e18171aa_lab5_lec.pdf
+file_size: 30971
 file_type: application/pdf
 learning_resource_types:
 - Labs

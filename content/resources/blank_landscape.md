@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a blank word document accompanying lab 9.
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/e9c3c7c5f49269e11ee6c5a4022b8976_Blank_landscape.doc
+file_size: 19456
 file_type: application/msword
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

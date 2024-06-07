@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lab 14: Measuring Speech Movements Using Data from X-ray Microbeam System:
   Microbeam data for speaker JW16'
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/4806ade49c72226f7e7411a62de93364_subj1.zip
+file_size: 6172066
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

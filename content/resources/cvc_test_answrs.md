@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the answers  corresponding to CVC stimuli test.
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/c36ef0bdcef407b0674e6cc6860211dc_cvc_test_answrs.pdf
+file_size: 13078
 file_type: application/pdf
 learning_resource_types:
 - Labs
