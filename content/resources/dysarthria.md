@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/410175b4116bde3800803f4ecbd970e6_dysarthria.zip
+file_size: 350502
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

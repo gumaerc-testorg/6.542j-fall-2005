@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains a list of possible projects in prosody.
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/777e46843d5c7c4efc91e333ad50ad26_prsdy_prjct_05.pdf
+file_size: 19338
 file_type: application/pdf
 learning_resource_types:
 - Projects

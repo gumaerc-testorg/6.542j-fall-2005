@@ -5,6 +5,7 @@ description: This file gives an overview of some of the measurement techniques, 
   movement, verify the calibration results and examine some examples from read speech,
   and make some observations on airflow measures in connected speech.
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/ae79ce4df174c5ec9f8403f99a0c9837_lab16.pdf
+file_size: 80380
 file_type: application/pdf
 learning_resource_types:
 - Labs
