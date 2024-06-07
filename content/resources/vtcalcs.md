@@ -2,6 +2,7 @@
 content_type: resource
 description: This is an alternate analysis tool for vocal tract area functions.
 file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/cf2f0f64f57917ec41d0900dc5120ef6_vtcalcs.zip
+file_size: 684877
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
