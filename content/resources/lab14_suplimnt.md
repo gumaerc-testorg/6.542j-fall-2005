@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: It contains suggestions for speech synthesis using a formant synthesizer.
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dcebb6989d78f6804be5ce4c411d62ce_lab14_suplimnt.pdf
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dcebb6989d78f6804be5ce4c411d62ce_lab14_suplimnt.pdf
 file_size: 15331
 file_type: application/pdf
 learning_resource_types:

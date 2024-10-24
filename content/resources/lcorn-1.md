@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab 9: Intonation Labelling OR Factors Affecting Duration. Part A1:
   Utterances 3-10 in files lcorn.16k (Xwaves format), located in the labc account'
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/9760a7a436341285386dc6696a40c859_lcorn.f0
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/9760a7a436341285386dc6696a40c859_lcorn.f0
 file_size: 82324
 file_type: application/octet-stream
 learning_resource_types: []
