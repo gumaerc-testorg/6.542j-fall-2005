@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This contains answer sheet for noting the CV stimuli.
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/c3c7d8c9a563f74d5e3bd333ca57ad45_cv_respnse_sht.pdf
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/c3c7d8c9a563f74d5e3bd333ca57ad45_cv_respnse_sht.pdf
 file_size: 15135
 file_type: application/pdf
 learning_resource_types:
