@@ -4,7 +4,7 @@ description: This file discusses the prcedure of acoustic correlates of prosodic
   for durations of phrase-final vs. non-phrase-final words and syllables, duration
   at intonation phrase boundaries in reiterant speech, placement of phrase-level prominence
   (pitch accent), and irregular pitch periods as a marker of intonation phrase boundaries.
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/130d4a163f180830d24ba3886057c466_lab12.pdf
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/130d4a163f180830d24ba3886057c466_lab12.pdf
 file_size: 19622
 file_type: application/pdf
 learning_resource_types:

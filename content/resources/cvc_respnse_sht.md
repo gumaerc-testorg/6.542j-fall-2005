@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains an answer sheet corresponding to which answer for
   Cv stimuli are to be written.
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/73db8a9db703cf78ddb910c0f5124308_cvc_respnse_sht.pdf
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/73db8a9db703cf78ddb910c0f5124308_cvc_respnse_sht.pdf
 file_size: 12928
 file_type: application/pdf
 learning_resource_types:

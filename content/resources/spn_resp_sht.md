@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a answer sheet given for spin test.
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dc84048b2d64f45109a2f7ce18243bce_spn_resp_sht.pdf
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dc84048b2d64f45109a2f7ce18243bce_spn_resp_sht.pdf
 file_size: 11852
 file_type: application/pdf
 learning_resource_types:
