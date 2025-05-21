@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is an alternate analysis tools for microbeam data analysis.
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/933b6e2a479afa3143e688ee781229e6_mavis.zip
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/933b6e2a479afa3143e688ee781229e6_mavis.zip
 file_size: 88144
 file_type: application/zip
 learning_resource_types: []

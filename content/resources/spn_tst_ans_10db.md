@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes answers for spin test 10dB.
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dc0328f08f05677a853d0b2536d61316_spn_tst_ans_10db.pdf
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dc0328f08f05677a853d0b2536d61316_spn_tst_ans_10db.pdf
 file_size: 12440
 file_type: application/pdf
 learning_resource_types:
