@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The phonetic symbol "zh".
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/fbbe0f7945235b650a056c76f4ba6a45_zh.gif
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/fbbe0f7945235b650a056c76f4ba6a45_zh.gif
 file_size: 892
 file_type: image/gif
 image_metadata:

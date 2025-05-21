@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/a1d7285cc1d8e1062e02e7be59549653_fa01lab04.pdf
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/a1d7285cc1d8e1062e02e7be59549653_fa01lab04.pdf
 file_size: 114918
 file_type: application/pdf
 learning_resource_types: []

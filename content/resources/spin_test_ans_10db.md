@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/7277cc35a0e59898ff743fedef3ea467_spin_test_ans_10dB.pdf
+file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/7277cc35a0e59898ff743fedef3ea467_spin_test_ans_10dB.pdf
 file_size: 15082
 file_type: application/pdf
 learning_resource_types: []
