@@ -2,11 +2,11 @@
 content_type: resource
 description: This is an introductory lecture on the anatomy and function of various
   parts of the speech production mechanism.
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dc09520fc936ed162542e6d6eb3761c7_lab9.pdf
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/dc09520fc936ed162542e6d6eb3761c7_lab9.pdf
 file_size: 187260
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
