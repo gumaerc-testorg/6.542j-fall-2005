@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This sheet includes answers corresponding to spin test 0dB test.
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/1abb0cf288af1cf8f992d68f09968af3_spn_tst_ans_0db.pdf
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/1abb0cf288af1cf8f992d68f09968af3_spn_tst_ans_0db.pdf
 file_size: 12429
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

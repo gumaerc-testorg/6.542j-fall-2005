@@ -3,7 +3,7 @@ content_type: page
 description: This section contains lab topics and the description of the corresponding
   labs.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 2b73a700-3d21-6417-3921-20167e6a6ee9

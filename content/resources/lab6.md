@@ -2,11 +2,11 @@
 content_type: resource
 description: This discusses recording, displaying, editing, and creating a listening
   test for an informal perceptual experiment.
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/f65abf29c9359d8dc54fef97a6f8ee37_lab6.pdf
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/f65abf29c9359d8dc54fef97a6f8ee37_lab6.pdf
 file_size: 30081
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lab 7: Sound Segment Reduction. Speech samples'
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/f36badafb6762ae16f612d80dba17bea_lab07.tar
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/f36badafb6762ae16f612d80dba17bea_lab07.tar
 file_size: 573440
 file_type: application/x-tar
 learning_resource_types: []

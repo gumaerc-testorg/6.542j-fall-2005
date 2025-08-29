@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The diagram of the speech chain.
-file: /courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/bf6d61adf83a77126306f31aa749bcbf_fa05hndout1fig1.jpg
+file: /ol-ocw-studio-app/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/bf6d61adf83a77126306f31aa749bcbf_fa05hndout1fig1.jpg
 file_size: 66234
 file_type: image/jpeg
 image_metadata:
