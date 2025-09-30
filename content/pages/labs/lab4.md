@@ -40,11 +40,11 @@ The Tools
 Reference Readings
 ------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/speech) Liberman, A. M. [_Speech: A Special Code_](https://mitpress.mit.edu/books/speech). Cambridge, MA: MIT Press, 1996, chapters 4, 5, and 8. ISBN: 0262121921.
+{{% resource_link "e4c6ad9f-f862-482c-b9d7-642db3d299d1" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Liberman, A. M. {{% resource_link "e4c6ad9f-f862-482c-b9d7-642db3d299d1" "_Speech: A Special Code_" %}}. Cambridge, MA: MIT Press, 1996, chapters 4, 5, and 8. ISBN: 0262121921.
 
 Stevens, K. N. "Models for the production and acoustics of stop consonants." _Speech Communication_ 13 (1993): 367-375.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/acoustic-phonetics) ———. [_Acoustic Phonetics_](https://mitpress.mit.edu/books/acoustic-phonetics). Cambridge, MA: MIT Press, 1999, Chapters 7 and 8. ISBN: 026219404X.
+{{% resource_link "6d60982b-4317-4b8e-862e-a5c5d48577af" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "6d60982b-4317-4b8e-862e-a5c5d48577af" "_Acoustic Phonetics_" %}}. Cambridge, MA: MIT Press, 1999, Chapters 7 and 8. ISBN: 026219404X.
 
 See Also the Following Notes and Reprints (in the Speech Group Library)
 -----------------------------------------------------------------------

@@ -26,9 +26,9 @@ If you are not participating in this course on campus, there are a variety of to
 Alternate Analysis Tools
 ------------------------
 
-*   [Colea](http://www.mathworks.in/matlabcentral/fileexchange/108-colea) - MATLAB®-based free-ware intended for non-commercial use.
-*   SpeechStation 2 - Windows®-based analysis tools available from [Sensimetrics Corp](http://www.sens.com/).
-*   [Praat](http://www.fon.hum.uva.nl/praat/) - Multi-platform free-ware intended for non-commercial use.
+*   {{% resource_link "eaaf4186-a858-4032-a0d2-c66895fb8f62" "Colea" %}} - MATLAB®-based free-ware intended for non-commercial use.
+*   SpeechStation 2 - Windows®-based analysis tools available from {{% resource_link "ba8a0fbc-944c-4e8d-94d0-fe9ad86f137a" "Sensimetrics Corp" %}}.
+*   {{% resource_link "42156728-cb9e-4ab3-9322-5c37007d280e" "Praat" %}} - Multi-platform free-ware intended for non-commercial use.
 
 The MATLAB® scripts to conduct vocal tract area calculations and examine microbeam data are provided here for download. The ZIP file also contains program settings files (.sig), area function files (.are), and a backup file (.old). These tools are intended for non-commercial use and no formal software support is provided.
 
@@ -39,4 +39,4 @@ Microbeam Data Analysis ({{% resource_link 933b6e2a-479a-fa31-43e6-88ee781229e6 
 MATLAB®
 -------
 
-*   [Purchase MATLAB®](http://www.mathworks.com/academia/student_version/) (Student Version for PC and Linux® - $99)
+*   {{% resource_link "cab09027-8e9e-4568-8541-e83befd3b62e" "Purchase MATLAB®" %}} (Student Version for PC and Linux® - $99)
