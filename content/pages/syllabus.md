@@ -45,7 +45,7 @@ No exam: Grading is based roughly 40% on the term paper with the rest on lab rep
 Required Textbook
 -----------------
 
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) Stevens, K. N. _Acoustic Phonetics_. Cambridge, MA: MIT Press, 1999. ISBN: 9780262194044.
+{{% resource_link "fb2672b8-7214-420a-8970-9c25ac5693dc" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Stevens, K. N. _Acoustic Phonetics_. Cambridge, MA: MIT Press, 1999. ISBN: 9780262194044.
 
 Other Reference Books
 ---------------------
@@ -54,7 +54,7 @@ Wherever possible, the book citations below reflect the specific editions used i
 
 Beranek, L. _Acoustics_. Revised ed. New York, NY: Acoustical Society of America, 1986. ISBN: 9780883184943.
 
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530972) Chomsky, N., and M. Halle. _The Sound Pattern of English_. Reprint ed. Cambridge, MA: MIT Press, 1991. ISBN: 9780262530972.
+{{% resource_link "493d0948-2f6d-46c4-94e6-d5b10e480cca" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Chomsky, N., and M. Halle. _The Sound Pattern of English_. Reprint ed. Cambridge, MA: MIT Press, 1991. ISBN: 9780262530972.
 
 Denes, P. B., and E. N. Pinson. _The Speech Chain: The physics and biology of spoken speech__._ 2nd ed. New York, NY: W.H. Freeman and Company, 1993. ISBN: 9780716723448.
 

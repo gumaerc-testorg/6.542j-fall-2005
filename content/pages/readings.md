@@ -9,7 +9,7 @@ title: Readings
 uid: 9f687754-afaa-e41a-47d7-85516c30b275
 ---
 
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194044) This section shows the set of readings for each lab, which are to be read before class. The readings are from the required textbook: Stevens, K. N. _Acoustic Phonetics_. Cambridge, MA: MIT Press, 1999. ISBN: 9780262194044.
+{{% resource_link "fb2672b8-7214-420a-8970-9c25ac5693dc" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} This section shows the set of readings for each lab, which are to be read before class. The readings are from the required textbook: Stevens, K. N. _Acoustic Phonetics_. Cambridge, MA: MIT Press, 1999. ISBN: 9780262194044.
 
 {{< tableopen >}}
 {{< theadopen >}}
