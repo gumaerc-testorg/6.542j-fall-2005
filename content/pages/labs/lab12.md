@@ -38,4 +38,4 @@ You can use either one of the following two analysis tools:
 Reference Readings
 ------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/phonology-and-syntax) Selkirk, E. O. "The phonology and phonetics of English intonation." In [_Phonology and Syntax: The Relation between Sound and Structure_](https://mitpress.mit.edu/books/phonology-and-syntax). Cambridge, MA: MIT Press, 1984, pp. 252-265. ISBN: 0262690985.
+{{% resource_link "b1462348-df02-4c6f-bb11-4e17d51aa931" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Selkirk, E. O. "The phonology and phonetics of English intonation." In {{% resource_link "b1462348-df02-4c6f-bb11-4e17d51aa931" "_Phonology and Syntax: The Relation between Sound and Structure_" %}}. Cambridge, MA: MIT Press, 1984, pp. 252-265. ISBN: 0262690985.

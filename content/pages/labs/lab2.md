@@ -46,4 +46,4 @@ Peterson, G. E., and H. L. Barney. "Control Methods Used in a Study of the Vowel
 
 Hillenbrand, J., et al. "Acoustic Characteristics of American English Vowels." _J Acoust Soc Am_ 97 (1995): 3099-3111.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/acoustic-phonetics) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/books/acoustic-phonetics). Cambridge, MA: MIT Press, 1999, pp. 257-322. ISBN: 026219404X.
+{{% resource_link "6d60982b-4317-4b8e-862e-a5c5d48577af" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, K. N. {{% resource_link "6d60982b-4317-4b8e-862e-a5c5d48577af" "_Acoustic Phonetics_" %}}. Cambridge, MA: MIT Press, 1999, pp. 257-322. ISBN: 026219404X.

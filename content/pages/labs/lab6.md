@@ -31,11 +31,11 @@ The Tools
 ---------
 
 *   Tracing form
-*   [RealPlayer](http://www.real.com/), or some other tool to view digital video (.ram file)
+*   {{% resource_link "e551e4bf-bb60-46e2-914a-c15015890988" "RealPlayer" %}}, or some other tool to view digital video (.ram file)
 
 Reference Readings
 ------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/acoustic-phonetics) Stevens, K. N. [_Acoustic Phonetics_](https://mitpress.mit.edu/books/acoustic-phonetics). Cambridge, MA: MIT Press, 1999, chapter 1. ISBN: 026219404X.
+{{% resource_link "6d60982b-4317-4b8e-862e-a5c5d48577af" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stevens, K. N. {{% resource_link "6d60982b-4317-4b8e-862e-a5c5d48577af" "_Acoustic Phonetics_" %}}. Cambridge, MA: MIT Press, 1999, chapter 1. ISBN: 026219404X.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/physiology-speech-production) Perkell, J. [_Physiology of Speech Production: Results and Implications of a Quantitative Cineradiographic Study_](https://mitpress.mit.edu/books/physiology-speech-production). Cambridge, MA: MIT Press, chapter 2, 1969. ISBN: 0262661705.
+{{% resource_link "4548ac0c-2ec3-48d7-ab03-c0e6799a0d8d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Perkell, J. {{% resource_link "4548ac0c-2ec3-48d7-ab03-c0e6799a0d8d" "_Physiology of Speech Production: Results and Implications of a Quantitative Cineradiographic Study_" %}}. Cambridge, MA: MIT Press, chapter 2, 1969. ISBN: 0262661705.
